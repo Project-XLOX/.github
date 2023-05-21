@@ -1,5 +1,5 @@
-## XLOX
-# Description
+# XLOX
+## Description
 This project is an open-source Linux distribution based on Debian, designed to provide a simplistic and monochrome UI with the benefits and flexibility of Ubuntu. 
 
 Currently, we are in the sourcing phase, actively seeking Linux enthusiasts and investors to join us in shaping and contributing to this project. 
